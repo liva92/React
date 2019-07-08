@@ -2,12 +2,12 @@
 
 ### 下载项目
 
-npm clone
+npm clone https://github.com/liva92/React
 
 ---
 
 ### 启动应用
-
+- cd jianShu
 - npm init
 - npm install
 
