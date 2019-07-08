@@ -2,7 +2,7 @@
 
 ### 下载项目
 
-npm clone https://github.com/liva92/React
+git clone https://github.com/liva92/React
 
 ---
 
