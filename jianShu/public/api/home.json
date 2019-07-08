@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "手绘",
+        "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "985名校学霸作息表曝光：看了他们才知道，读书无用论都是骗人的",
+        "desc": "01 前段时间，武汉一位学霸高中生的寒假作息时间表在朋友圈刷了屏。 这份作息时间表上安排的学习时间，是从早上6点40分到晚上11点50分。 即使...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/1202579-7c2b837848503c0f?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "web前端里见过最惊艳的HTML5的demo",
+        "desc": "先给你看一段效果： GIF动态图 写出这个效果需要多少代码量呢? 答案是200行。 你没看错， 不需要C++也不需要Flash，这是纯HTML5...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/16966049-9f9d4c8217424da9.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 3,
+        "title": "李彦宏是反应太快还是演技太差？！",
+        "desc": "百度AI大会，董事长李彦宏被泼冷水。这次是实实在在的泼出一瓶冷水，并不是场下的冷言讥讽。 而一句“what's your problem”也一时...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/15696407-60be51864232b2d7.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 4,
+        "title": "百度网盘资料，全网资料专攻",
+        "desc": "众所周知，不管你想储存什么样的资料，都可以一键上传至百度网盘。 本人猜想，即将到来普及的5g网络，更会加速人们对网盘存储的依赖。随手拍一张照片，...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/12507014-ea2572eff37b4c59?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      }
+    ]
+  }
+}
